@@ -1,2 +1,2 @@
 # Python-practice
-THese are my practice notes of python learnings.
+These are my practice notes of python learnings.
